@@ -1,4 +1,4 @@
-# One Month Rails
+# One Month Project
 
 This is the pinteresting sample application for 
 [*One Month*](http://onemonth.com)
